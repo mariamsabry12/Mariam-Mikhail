@@ -1,0 +1,7 @@
+Player's Hand:
+6 of Hearts
+2 of Hearts
+
+Dealer's Hand:
+4 of Hearts
+Jack of Hearts
